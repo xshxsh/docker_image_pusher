@@ -1,2 +1,3 @@
+nginx
 infiniflow/ragflow_dep
 library/ubuntu:22.04
